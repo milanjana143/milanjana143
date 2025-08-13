@@ -1,14 +1,13 @@
 <h1 align="center">Hi, I am Milan Jana</h1>
 <h3 align="center">Developing the skills to design, build, and innovate.</h3>
 
+- 🌱 I’m currently learning **Frontend Development**
+
+- 💬 Ask me about **C Programming**
+
+- 📫 How to reach me **mjana3321.important@gmail.com**
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milanjana-143&label=Profile%20views&color=0e75b6&style=flat" alt="milanjana-143" /> </p>
-
-- 🌱 I’m currently learning **Angular**
-
-- 💬 Ask me about **C**
-
-- 📫 How to reach me **mjana3321.@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/milanjana143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="milanjana143" height="30" width="40" /></a>
@@ -22,4 +21,3 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milanjana-143&show_icons=true&locale=en&bg_color=00000000&text_color=ffffff&icon_color=ffffff" alt="milanjana-143" /></p>
-

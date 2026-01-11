@@ -1,4 +1,8 @@
-<h1 align="center">Hi, I am Milan Jana</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontSize=50&text=Hello!%20Programmer&height=95&section=header" style="width:100%; max-width:100%;"/>
+</p>
+
+<h1 align="center">I am Milan Jana</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Web+Developer+from+India!!;Interested+in+UI/UX+design+!;&center=true&width=500&height=50"></a>
 </p>
@@ -24,3 +28,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=milanjana143&theme=dark&hide_border=false&include_all_commits=true&count_private=true&v=1)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=milanjana143&theme=dark&hide_border=false&v=1)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=milanjana143&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=1)
+
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"
+    style="width:100%; max-width:100%;"
+  />
+</p>

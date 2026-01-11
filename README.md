@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontSize=50&text=Hello!%20Programmer&height=95&section=header" style="width:100%; max-width:100%;"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontSize=50&text=Hello!%20Programmer&height=99&section=header" style="width:100%; max-width:100%;"/>
 </p>
 
 <h1 align="center">I am Milan Jana</h1>

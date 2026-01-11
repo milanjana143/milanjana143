@@ -15,10 +15,9 @@
 <img align="right" alt="Coding" height="280" width="400" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milanjana143&label=Profile%20views&color=0e75b6&style=flat" alt="milanjana143" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack Development**
-
-- 💬 Ask me about **C Programming**
-
+- 🔭 I’m currently learning **MERN Stack Development**.
+- 💬 Ask me about **C Programming**.
+- ⚡ Fun fact- **Coding is temporary, errors are permanent**.
 - 📫 How to reach me **mjana3321@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -37,7 +36,7 @@
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=99&section=footer"
     style="width:100%; max-width:100%;"
   />
 </p>

@@ -11,7 +11,7 @@
   </a>
 </p>
 
-<h3 align="left"><u>💫 About Me :</u></h3>
+<h3 align="left">💫 About Me :</h3>
 
 <p align="left">
 <img align="right" alt="Coding" height="280" width="400" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif">

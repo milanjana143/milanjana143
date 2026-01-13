@@ -46,9 +46,10 @@
 
 </p> -->
 
+<!-- <p> For better performance,these part are extra added in ths part-    &include_all_commits=true , &v=1  </p> -->
 <a href="https://github.com/milanjana143">
   <img align="center"
-    src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=milanjana143&theme=dark&border=white&ring=#C96A00&fire=#C96A00&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E"                 alt="Streak Stats" />
+    src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=milanjana143&include_all_commits=true&count_private=true&theme=dark&border=white&ring=#C96A00&fire=#C96A00&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E&v=1" alt="Streak Stats" />
 </a>
 
 

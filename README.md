@@ -23,7 +23,7 @@
 - 🔭 I’m currently learning **MERN Stack Development**.
 - 💬 Ask me about **C Programming**.
 - ⚡ Fun fact- **Coding is temporary, errors are permanent**.
-- ✉️ How to reach me **mjana3321@gmail.com**
+- ✉️ Email- **mjana3321@gmail.com**
 
 <h3 align="left">🔗 Connect with Me :</h3>
 <p align="left">

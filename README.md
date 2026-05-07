@@ -21,7 +21,7 @@
 
 <div align="right">
   <img align="right" alt="Coding" height="280" width="400"
-    src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif">
+    src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 </div> 
  
  <p align="left">

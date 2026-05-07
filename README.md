@@ -76,7 +76,7 @@
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=85&section=footer"
     style="width:100%; max-width:100%;"
   />
 </p>
